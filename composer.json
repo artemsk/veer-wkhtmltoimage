@@ -1,0 +1,11 @@
+{
+    "name": "artemsk/veer-wkhtmltoimage",
+    "homepage": "http://wkhtmltopdf.org/",
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/wkhtmltoimage-i386",
+		"bin/wkhtmltoimage.exe"
+    ],
+    "require": {
+    }
+}
