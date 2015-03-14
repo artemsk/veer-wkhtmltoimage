@@ -4,7 +4,7 @@
     "minimum-stability": "stable",
     "bin": [
         "bin/wkhtmltoimage-i386",
-		"bin/wkhtmltoimage.exe"
+		"bin/wkhtmltoimage"
     ],
     "require": {
     }
